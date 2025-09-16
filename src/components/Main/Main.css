@@ -56,7 +56,7 @@
 .main .card {
   height: 200px;
   padding: 15px;
-  background-color: #f0f4f9; /* fixed */
+  background-color: #f0f4f9; 
   border-radius: 10px;
   position: relative;
   cursor: pointer;
